@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    width: 1200px;
+    height: 50px;
+    margin: auto;
+    background-color: white;
+}
+.float{
+    width: 200px;
+    height: auto;
+    float: left;
+}
+.logo{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    padding-left:5px;
+    padding-top: 5px;
+}
+.menu{
+    width: 400px;
+    height: 75px;px;
+    float: left;
+}
+ul{
+   float: left;
+   display: flex;
+   justify-content:right;
+   align-items: 14px;  
+}
+ul li{
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 24px;
+    font-size: 18px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+ul li a:hover{
+    color:grey;
+}
+.navbar1{
+    width: 1200px;
+    height: 50px;
+    margin: auto;
+    background-color: white;
+}
+.float1{
+    width: 200px;
+    height: auto;
+    float: left;
+}
+.logo1{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    padding-left:5px;
+    padding-top: 5px;
+}
+.navbar2{
+    width: 1200px;
+    height: 50px;
+    margin: auto;
+    background-color: white;
+}
+.float2{
+    width: 200px;
+    height: auto;
+    float: left;
+}
+.logo2{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    padding-left:5px;
+    padding-top: 5px;
+}
+
+
+
